@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf8'?>
+<rss version="2.0">
+<channel>
+<title>ADS (Cites/AR query)</title>
+<link>https://ui.adsabs.harvard.edu</link>
+<description>The SAO/NASA ADS Abstract service provides a search system for the Astronomy and Physics literature</description>
+<image>
+<url>http://ads.harvard.edu/figs/ads_icon_144.png</url>
+<title>SAO/NASA ADS</title>
+<link>https://ui.adsabs.harvard.edu</link>
+<width>144</width>
+<height>122</height>
+</image>
+
+<item>
+<title>Ahriche, Amine: The scale invariant scotogenic model: CDF-II $W$-boson mass and the 95~GeV excesses</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231108297A</link>
+<description>The anomalies observed in the $W$ mass measurements at the CDF-II
+experiments and the excesses seen around 95~GeV at the Large Hadron
+Collider (LHC) motivate this work, in which we investigate and constrain
+the parameter space of the Scale Invariant Scotogenic Model with a
+Majorana dark matter candidate. The scanned parameters are chosen to be
+consistent with the dark matter relic density and the observed excesses
+at $\sim95$~GeV signal strength rates in $\gamma\gamma$, $b\bar b$ and
+$\tau^+\tau^-$ final states. Furthermore, the model's viable parameters
+can be probed in both the LHC and future $e^+e^-$ colliders for di-Higgs
+production.</description>
+</item>
+
+<item>
+<title>Alves, J. R.: Updated Big Bang Nucleosynthesis Bounds on Long-lived Particles from Dark Sectors</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107688A</link>
+<description>As electromagnetic showers may alter the abundance of Helium, Lithium,
+and Deuterium, we can place severe constraints on the lifetime and
+amount of electromagnetic energy injected by long-lived particles.
+Considering up-to-date measurements of the light element abundances that
+point to $Y_p=0.245\pm 0.003$,$({\rm D/H})= (2.527\pm 0.03)\times
+10^{-5}$,$(^7{\rm Li/H})=1.58 ^{+0.35}_{-0.28} \times 10^{-10}$,
+$(^6{\rm Li/^7 Li})=0.05$, and the baryon-to-photon ratio obtained from
+the Cosmic Microwave Background data, $\eta=6.104 \times 10^{-10}$, we
+derive upper limits on the fraction of electromagnetic energy produced
+by long-lived particles. Our findings apply to decaying dark matter
+models, long-lived gravitinos, and other non-thermal processes that
+occurred in the early universe between $10^2-10^{10}$ seconds.</description>
+</item>
+
+<item>
+<title>Anguelova, Lilia: Dynamics of Inspiraling Dark Energy</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107839A</link>
+<description>We investigate the dynamics of a rapid-turning dark energy model, which
+arises from certain inspiraling field-space trajectories. We find the
+speed of sound $c_s$ of the dark energy perturbations around the
+background and show that $c_s$ is monotonically decreasing with time.
+Furthermore, it has a positive-definite lower bound that implies a
+certain clustering scale. We also extend the previously known background
+solution for dark energy to an exact solution that includes matter. This
+allows us to address the implications of our model for two cosmological
+tensions. More precisely, we argue that the $\sigma_8$ tension can be
+alleviated generically, while reducing the Hubble tension requires
+certain constraints on the parameter space of the model. Notably, a
+necessary condition for alleviating the Hubble tension is that the
+transition from matter domination to the dark energy epoch begins
+earlier than in $\Lambda$CDM.</description>
+</item>
+
+<item>
+<title>Bartram, C.: Non-Virialized Axion Search Sensitive to Doppler Effects in the Milky Way Halo</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107748B</link>
+<description>The Axion Dark Matter eXperiment (ADMX) has previously excluded Dine-
+Fischler-Srednicki-Zhitnisky (DFSZ) axions between 680-790 MHz under the
+assumption that the dark matter is described by the isothermal halo
+model. However, the precise nature of the velocity distribution of dark
+matter is still unknown, and alternative models have been proposed. We
+report the results of a non-virialized axion search over the mass range
+2.81-3.31 {\mu}eV, corresponding to the frequency range 680-800 MHz.
+This analysis marks the most sensitive search for non-virialized axions
+sensitive to Doppler effects in the Milky Way Halo to date. Accounting
+for frequency shifts due to the detector's motion through the Galaxy, we
+exclude cold flow relic axions with a velocity dispersion of order 10^-7
+c with 95% confidence.</description>
+</item>
+
+<item>
+<title>Berezhiani, Lasha: Dynamical friction in dark matter superfluids: The evolution of black hole binaries</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107672B</link>
+<description>The theory of superfluid dark matter is characterized by self-
+interacting sub-eV particles that thermalize and condense to form a
+superfluid core in galaxies. Massive black holes at the center of
+galaxies, however, modify the dark matter distribution and result in a
+density enhancement in their vicinity known as dark matter spikes. The
+presence of these spikes affects the evolution of binary systems by
+modifying their gravitational wave emission and inducing dynamical
+friction effects on the orbiting bodies. In this work, we assess the
+role of dynamical friction for bodies moving through a superfluid core
+enhanced by a central massive black hole. As a first step, we compute
+the dynamical friction force experienced by bodies moving in a circular
+orbit. Then, we estimate the gravitational wave dephasing of the binary,
+showing that the effect of the superfluid drag force is beyond the reach
+of space-based experiments like LISA, contrarily to collisionless dark
+matter, therefore providing an opportunity to distinguish these dark
+matter models.</description>
+</item>
+
+<item>
+<title>Bogorad, Zachary: Coherent Self-Interactions of Dark Matter in the Bullet Cluster</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107648B</link>
+<description>Many models of dark matter include self-interactions beyond gravity. A
+variety of astrophysical observations have previously been used to place
+limits on the strength of such self-interactions. However, previous
+works have generally focused either on short-range interactions
+resulting in individual dark matter particles scattering from one
+another, or on effectively infinite-range interactions which sum over
+entire dark matter halos. In this work, we focus on the intermediate
+regime: forces with range much larger than dark matter particles' inter-
+particle spacing, but still shorter than the length scales of known
+halos. We show that gradients in the dark matter density of such halos
+would still lead to observable effects. We focus primarily on effects in
+the Bullet Cluster, where finite-range forces would lead either to a
+modification of the collision velocity of the cluster or to a separation
+of the dark matter and the galaxies of each cluster after the collision.
+We also consider constraints from the binding of ultrafaint dwarf galaxy
+halos, and from gravitational lensing of the Abell 370 cluster. Taken
+together, these observations allow us to set the strongest constraints
+on dark matter self-interactions over at least five orders of magnitude
+in range, surpassing existing limits by many orders of magnitude
+throughout.</description>
+</item>
+
+<item>
+<title>Chiba, Rimpei: Origin of reduced dynamical friction by dark matter halos with net prograde rotation</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107640C</link>
+<description>We provide an explanation for the reduced dynamical friction on galactic
+bars in spinning dark matter halos. Earlier work based on linear theory
+predicted an increase in dynamical friction when dark halos have a net
+forward rotation, because prograde orbits couple to bars more strongly
+than retrograde orbits. Subsequent numerical studies, however, found the
+opposite trend: dynamical friction weakens with increasing spin of the
+halo. We revisit this problem and demonstrate that linear theory in fact
+correctly predicts a reduced torque in forward-rotating halos. We show
+that shifting the halo mass from retrograde to prograde phase space
+generates a positive gradient in the distribution function near the
+origin of the z-angular momentum (Lz=0), which results in a resonant
+transfer of Lz to the bar, making the net dynamical friction weaker.
+While this effect is subdominant for the major resonances, including the
+corotation resonance, it leads to a significant positive torque on the
+bar for the series of direct radial resonances, as these resonances are
+strongest at Lz=0. The overall dynamical friction from spinning halos is
+shown to decrease with the halo's spin, in agreement with the secular
+behavior of N-body simulations. We validate our linear calculation by
+computing the nonlinear torque from individual resonances using the
+angle-averaged Hamiltonian.</description>
+</item>
+
+<item>
+<title>Cronin, John: Rotating dark matter admixed neutron stars</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107714C</link>
+<description>We study rotating compact stars that are mixtures of the ordinary
+nuclear matter in a neutron star and fermionic dark matter. After
+deriving equations describing a slowly rotating system made up of an
+arbitrary number of perfect fluids, we specialize to the two-fluid case,
+where the first fluid describes ordinary matter and the second fluid
+describes dark matter. Electromagnetic observations of the moment of
+inertia and angular momentum directly probe ordinary matter and not dark
+matter. Upon taking this into account, we show that the I-Love-Q
+relations for dark matter admixed neutrons stars can deviate
+significantly from the standard single-fluid relationships.</description>
+</item>
+
+<item>
+<title>Das, Anirban: Detecting Dark Matter Induced Power in Quantum Devices</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107857D</link>
+<description>In the past few years, many mesoscale systems have been proposed as
+possible detectors of sub-GeV dark matter particles. In this work, we
+point out the feasibility of probing dark matter-nucleon scattering
+cross section using superconductor-based quantum devices with meV-scale
+energy threshold. We compute new limits on spin-independent dark matter
+scattering cross section using the existing power measurement data from
+three different experiments for MeV to 10 GeV mass. We derive the limits
+for both halo and thermalized dark matter populations.</description>
+</item>
+
+<item>
+<title>Graham, Peter W.: Constraints on Dark Matter from Dynamical Heating of Stars in Ultrafaint Dwarfs. Part 1: MACHOs and Primordial Black Holes</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107654G</link>
+<description>We place limits on dark matter made up of compact objects significantly
+heavier than a solar mass, such as MACHOs or primordial black holes
+(PBHs). In galaxies, the gas of such objects is generally hotter than
+the gas of stars and will thus heat the gas of stars even through purely
+gravitational interactions. Ultrafaint dwarf galaxies (UFDs) maximize
+this effect. Observations of the half-light radius in UFDs thus place
+limits on MACHO dark matter. We build upon previous constraints with an
+improved heating rate calculation including both direct and tidal
+heating, and consideration of the heavier mass range above $10^4 \,
+M_\odot$. Additionally we find that MACHOs may lose energy and migrate
+in to the center of the UFD, increasing the heat transfer to the stars.
+UFDs can constrain MACHO dark matter with masses between about $10
+M_\odot$ and $10^8 M_\odot$ and these are the strongest constraints over
+most of this range.</description>
+</item>
+
+<item>
+<title>Niu, Xuce: Gauged Global Strings</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107639N</link>
+<description>We investigate the string solutions and cosmological implications of the
+gauge ${\rm U(1)_Z}\,\times$ global ${\rm U(1)_{PQ}}$ model. With two
+hierarchical symmetry-breaking scales, the model exhibits three distinct
+string solutions: a conventional global string, a global string with a
+heavy core, and a gauge string as a bound state of the two global
+strings. This model reveals rich phenomenological implications in
+cosmology. During the evolution of the universe, these three types of
+strings can form a Y-junction configuration. Intriguingly, when
+incorporating this model with the QCD axion framework, the heavy-core
+global strings emit more axion particles compared to conventional axion
+cosmic strings due to their higher tension. This radiation significantly
+enhances the QCD axion dark matter abundance, thereby opening up the QCD
+axion mass window. Consequently, axions with masses exceeding $\sim
+10^{-5}\, {\rm eV}$ have the potential to constitute the whole dark
+matter abundance. Furthermore, in contrast to conventional gauge
+strings, the gauge strings in this model exhibit a distinctive behavior
+by radiating axions.</description>
+</item>
+
+<item>
+<title>Santoro, V.: The HIBEAM program: search for neutron oscillations at the ESS</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231108326S</link>
+<description>With the construction of the European Spallation Source, a remarkable
+opportunity has emerged to conduct high sensitivity searches for neutron
+oscillations, including a first search for thirty years for free
+neutrons converting to antineutrons. Furthermore, searches can be made
+for transitions of neutrons and antineutrons to sterile neutron states.
+The HIBEAM program provides an increase in sensitivity of an order of
+magnitude compared to previous work. The HIBEAM program corresponds to
+baryon number violation by one and two units. The observation of a
+process satisfying a Sakharov condition addresses the open question of
+the origin of the matter-antimatter asymmetry in the Universe. Sterile
+neutron states would belong to a `dark' sector of particles which may
+explain dark matter. As electrically neutral, meta-stable objects that
+can be copiously produced and studied, neutrons represent an attractive
+portal to a `dark' sector. This paper describes the capability, design,
+infrastructure, and potential of the HIBEAM program. This includes a
+dedicated beamline, neutron optical system, magnetic shielding and
+control, and detectors for neutrons and antineutrons.</description>
+</item>
+
+<item>
+<title>Sheng, Ming-Jie: Spin Speed and Supportedness Correlation and Evolution of Galaxy-Halo Systems</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107969S</link>
+<description>Galaxy angular momenta (spins) contain valuable cosmological
+information, complementing with their positions and velocities. The
+baryonic spin direction of galaxies have been probed as a reliable
+tracer of their host halos and the primordial spin modes. Here we use
+the TNG100 simulation of the IllustrisTNG project to study the spin
+magnitude correlations between dark matter, gas and stellar components
+of galaxy-halo systems, and their evolutions across the cosmic history.
+We find that these components generate similar initial spin magnitudes
+from the same tidal torque in Lagrangian space. At low redshifts, the
+gas component still traces the spin magnitude of dark matter halo and
+the primordial spin magnitude. However, the traceability of stellar
+component depends on the $ex$ $situ$ stellar mass fraction, $f_{\rm
+acc}$. Our results suggest that the galaxy baryonic spin magnitude can
+also serve as a tracer of their host halo and the initial perturbations,
+and the similarity of their evolution histories affects the galaxy-halo
+correlations.</description>
+</item>
+
+<item>
+<title>Song, Yunjia: Elucidating the impact of massive neutrinos on halo assembly bias</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107650S</link>
+<description>Massive neutrinos have non-negligible impact on the formation of large-
+scale structures. We investigate the impact of massive neutrinos on the
+halo assembly bias effect, measured by the relative halo bias $\hat{b}$
+as a function of the curvature of the initial density peak $\hat{s}$,
+neutrino excess $\epsilon_\nu$, or halo concentration $\hat{c}$, using a
+large suite of $\Sigma M_\nu{=}0.0$ eV and $0.4$ eV simulations with the
+same initial conditions. By tracing dark matter haloes back to their
+initial density peaks, we construct a catalogue of halo ``twins'' that
+collapsed from the same peaks but evolved separately with and without
+massive neutrinos, thereby isolating any effect of neutrinos on halo
+formation. We detect a $2\%$ weakening of the halo assembly bias as
+measured by $\hat{b}(\epsilon_\nu)$ in the presence of massive
+neutrinos. Due to the significant correlation between $\hat{s}$ and
+$\epsilon_\nu$~($r_{cc}{=}0.319$), the impact of neutrinos persists in
+the halo assembly bias measured by $\hat{b}(\hat{s})$ but reduced by an
+order of magnitude to $0.1\%$. As the correlation between $\hat{c}$ and
+$\epsilon_\nu$ drops to $r_{cc}{=}0.087$, we do not detect any neutrino-
+induced impact on $\hat{b}(\hat{c})$, consistent with earlier studies.
+We also discover an equivalent assembly bias effect for the ``neutrino
+haloes'', whose concentrations are anti-correlated with the large-scale
+clustering of neutrinos.</description>
+</item>
+
+<item>
+<title>Vaartjes, Arjen: Strong Microwave Squeezing Above 1 Tesla and 1 Kelvin</title>
+<link>https://ui.adsabs.harvard.edu/abs/2023arXiv231107968V</link>
+<description>Squeezed states of light have been used extensively to increase the
+precision of measurements, from the detection of gravitational waves to
+the search for dark matter. In the optical domain, high levels of vacuum
+noise squeezing are possible due to the availability of low loss optical
+components and high-performance squeezers. At microwave frequencies,
+however, limitations of the squeezing devices and the high insertion
+loss of microwave components makes squeezing vacuum noise an
+exceptionally difficult task. Here we demonstrate a new record for the
+direct measurement of microwave squeezing. We use an ultra low loss
+setup and weakly-nonlinear kinetic inductance parametric amplifiers to
+squeeze microwave noise 7.8(2) dB below the vacuum level. The amplifiers
+exhibit a resilience to magnetic fields and permit the demonstration of
+record squeezing levels inside fields of up to 2 T. Finally, we exploit
+the high critical temperature of our amplifiers to squeeze a warm
+thermal environment, achieving vacuum level noise at a temperature of
+1.8 K. These results enable experiments that combine squeezing with
+magnetic fields and permit quantum-limited microwave measurements at
+elevated temperatures, significantly reducing the complexity and cost of
+the cryogenic systems required for such experiments.</description>
+</item>
+</channel>
+</rss>
